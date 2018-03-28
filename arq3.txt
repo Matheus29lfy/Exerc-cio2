@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Ola, tud be
+=======
+Ola, tudo be
+>>>>>>> master
